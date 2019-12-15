@@ -203,4 +203,4 @@ console.log(joe.scopeArrow());
 // 2. What is "this" when joe.scopeArrow() is invoked?
 // it refer to the window.
 // 3. Explain why "this" is different when an arrow function is used.
-// it is self explainory. ...i swear i will keep on working.
+// because when you call this it is scope is the object
